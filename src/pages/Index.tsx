@@ -20,7 +20,7 @@ const Index = () => {
             </p>
             <Button
               size="lg"
-              onClick={() => navigate("/builder")}
+              onClick={() => navigate("/auth")}
               className="bg-white text-primary hover:bg-white/90 font-semibold text-lg px-8 py-6 animate-in fade-in slide-in-from-bottom-6 duration-1000 delay-300"
             >
               Start Building Now
